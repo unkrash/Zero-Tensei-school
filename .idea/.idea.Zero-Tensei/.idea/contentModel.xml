@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Zero-Tensei.1881393977.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\AppData\local\Android\sdk\platforms\android-26\data\res" t="IncludeRecursive" />
+    <e p="D:\EDJD\Zero-Tensei" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Models" t="Include">
+          <e p="Weapons" t="Include">
+            <e p="Melle" t="Include">
+              <e p="ErbGameArt" t="Include">
+                <e p="AnimeWeapon" t="Include">
+                  <e p="Shaders" t="Include">
+                    <e p="SwordLightning.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AnimationSoundEffects.cs" t="Include" />
+          <e p="BoolHelper.cs" t="Include" />
+          <e p="ChangeScreen.cs" t="Include" />
+          <e p="Controller" t="Include">
+            <e p="ActionManager.cs" t="Include" />
+            <e p="AnimatorHook.cs" t="Include" />
+            <e p="CameraManager.cs" t="Include" />
+            <e p="InputHandler.cs" t="Include" />
+            <e p="InventoryManager.cs" t="Include" />
+            <e p="StateManager.cs" t="Include" />
+          </e>
+          <e p="DestroyOldSavepoint.cs" t="Include" />
+          <e p="DroneBehaviour.cs" t="Include" />
+          <e p="Enemys" t="Include">
+            <e p="AIHandler.cs" t="Include" />
+            <e p="EnemyStates.cs" t="Include" />
+            <e p="EnemyTarget.cs" t="Include" />
+          </e>
+          <e p="IK" t="Include">
+            <e p="HandleIK.cs" t="Include" />
+          </e>
+          <e p="Intro" t="Include">
+            <e p="ScrollZ.cs" t="Include" />
+          </e>
+          <e p="Inventory" t="Include">
+            <e p="ConsumableScriptableObject.cs" t="Include" />
+            <e p="InventoryScriptableObject.cs" t="Include" />
+            <e p="ItemScriptableObject.cs" t="Include" />
+            <e p="ScriptableObjectManager.cs" t="Include" />
+            <e p="SpellItemScriptableObject.cs" t="Include" />
+            <e p="WeaponScriptableObject.cs" t="Include" />
+          </e>
+          <e p="Inventory UI" t="Include">
+            <e p="InventoryUI.cs" t="Include" />
+            <e p="InventoryUISlot.cs" t="Include" />
+          </e>
+          <e p="Items" t="Include">
+            <e p="BreathCollider.cs" t="Include" />
+            <e p="DamageCollider.cs" t="Include" />
+            <e p="ParryCollider.cs" t="Include" />
+            <e p="ParticleHook.cs" t="Include" />
+            <e p="RuntimeConsumable.cs" t="Include" />
+            <e p="RuntimeSpellItems.cs" t="Include" />
+            <e p="RuntimeWeapon.cs" t="Include" />
+            <e p="WeaponHook.cs" t="Include" />
+          </e>
+          <e p="jims" t="Include">
+            <e p="menu.cs" t="Include" />
+            <e p="playvideo.cs" t="Include" />
+            <e p="Savepoint.cs" t="Include" />
+            <e p="targetLockUI.cs" t="Include" />
+            <e p="Textriger.cs" t="Include" />
+            <e p="WeaponHider.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="EnemyManager.cs" t="Include" />
+            <e p="GesturesManager.cs" t="Include" />
+            <e p="ItemEffectsManager.cs" t="Include" />
+            <e p="ResourcesManager.cs" t="Include" />
+            <e p="SpellEffectsManager.cs" t="Include" />
+            <e p="StaticFunctions.cs" t="Include" />
+            <e p="StaticStrings.cs" t="Include" />
+            <e p="StatsCalculations.cs" t="Include" />
+          </e>
+          <e p="Projectiles" t="Include">
+            <e p="Projectile.cs" t="Include" />
+          </e>
+          <e p="Stats" t="Include">
+            <e p="CharacterStats.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="IconBase.cs" t="Include" />
+            <e p="QuickSlot.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+          <e p="Utility" t="Include">
+            <e p="IconMaker" t="Include">
+              <e p="IconMaker.cs" t="Include" />
+            </e>
+            <e p="Notes.cs" t="Include" />
+            <e p="WeaponPlacer" t="Include">
+              <e p="WeaponPlacer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Items" t="Include">
+            <e p="items_database.xml" t="Include" />
+            <e p="weapons_database.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Zero-Tensei.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
